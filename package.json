@@ -1,0 +1,32 @@
+{
+  "name": "hughx",
+  "version": "1.0.0",
+  "author": "Hugh Guiney <hugh@hughguiney.com>",
+  "homepage": "http://hughx.com",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/roots/roots.git"
+  },
+  "bugs": {
+    "url": "https://github.com/roots/roots/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "grunt": "~1.0.1",
+    "grunt-contrib-clean": "~1.0.0",
+    "grunt-contrib-jshint": "~1.0.0",
+    "grunt-contrib-uglify": "~2.0.0",
+    "grunt-contrib-watch": "~1.0.0",
+    "grunt-recess": "~1.0.1",
+    "grunt-wp-version": "~0.1.0",
+    "grunt-contrib-less": "~1.4.0"
+  }
+}
